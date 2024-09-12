@@ -4,13 +4,13 @@
 
 ### Steps involved:
 
-Step 1: Data Understanding
+> Step 1: Data Understanding
 
-Step 2: Data preparation
+> Step 2: Data preparation
 
-Step 3: Data Cleaning
+> Step 3: Data Cleaning
 
-Step 4: Exploratory data analysis
+> Step 4: Exploratory data analysis
 
 ### Libraries used
 
@@ -23,13 +23,13 @@ Step 4: Exploratory data analysis
 
 ### Graphs used for representation:
 
--Bar plot
--Pie plot
--Box Plot
--Grouped bar plot
--Donut plot
--Heatmap
--Pair plot
+- Bar plot
+- Pie plot
+- Box Plot
+- Grouped bar plot
+- Donut plot
+- Heatmap
+- Pair plot
 
 ### Insights from EDA impacting business:
 
