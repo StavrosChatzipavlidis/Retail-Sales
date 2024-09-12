@@ -55,17 +55,11 @@
 ### Insights from EDA impacting business:
 
 1. The most selling and crowded store type is A.
-![total-sales](./img/total-sales.png)
 2. More stores are opened during School holidays than State holidays.
-![holidays](./img/holiday.png)
 3. Mondays have most sales since most of the Sundays are closed.
-![total-sales](./img/day-of-week.png)
 4. Promo 1 has given positive yields where as Promo 2 is a disaster.
-![total-sales](./img/promo.png)
 5. Store type b has higher sales and customers per store than other store types.
-![total-sales](./img/storetype-sales.png)
 6. Assortment b is available only at store type b and it has more sales and customers than any other assortment.
-![total-sales](./img/assortment.png)
 
 ### Suggestions provided to increase the Sales:
 
