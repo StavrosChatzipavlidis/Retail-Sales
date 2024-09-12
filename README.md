@@ -1,4 +1,4 @@
-# Rossmann Retail Stores Sales
+# Retail Sales Analysis and Optimization
 
 ## Project Summary
 
